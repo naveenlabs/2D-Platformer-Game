@@ -1,0 +1,15 @@
+# macOS system files
+.DS_Store
+__MACOSX/
+
+# Editor backup files
+*.swp
+*.swo
+*~
+
+# IDE folders
+.idea/
+.vscode/
+
+# Node modules (if using npm in future)
+node_modules/
